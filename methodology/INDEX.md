@@ -1,0 +1,3 @@
+- [Agricultural commodity research methodology](feedback_ag_commodity_method.md) — 农产品周期研究的标准化分析框架（价格+季节性+ENSO+成本+种植周期五层叠加）
+- [Sugar futures research project](project_sugar_research.md) — 白糖期货 SR0 + ICE 11 号糖 20 年复盘项目的数据源、产出文件、关键发现索引
+- [User trading interest](user_trading_interest.md) — 用户兴趣点：商品期货周期分析，倾向定量数据+基本面叠加，关注大宗商品价格驱动逻辑

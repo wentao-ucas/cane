@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 私有/临时
+*.env
+.env.local
+credentials*
+*.key
+*.log
+
+# Claude Code 内部
+.agent/
+.claude/
+RECOVERY_MANIFEST.txt
